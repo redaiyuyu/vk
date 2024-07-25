@@ -81,3 +81,34 @@ RTK模块安装注意事项：
 
 <div  align="center"> <img src="pictures//RTKINS5.png" width="50%" height="50%">
 </div> 
+
+## 三、农业版RTK基站
+1, 连接D3-H模块至两个RTK天线，另一端连接PMU的RTK端口
+
+<div  align="center"> <img src="pictures//RTK1.png" width="50%" height="50%">
+</div>
+
+2, 2.将RTK基站和电池棒连接通电
+ 
+<div  align="center"> <img src="pictures//RTK2.png" width="50%" height="50%">
+</div>
+
+3, D3-R与遥控器type-c口相连接
+
+<div  align="center"> <img src="pictures//RTK3.png" width="50%" height="50%">
+</div>
+
+4, 飞控与遥控器连接-->进入手动作业页面-->点击设置
+
+<div  align="center"> <img src="pictures//RTK4.png" width="50%" height="50%">
+</div>
+
+5, 点击遥控器设置页面的USB Station按钮
+
+<div  align="center"> <img src="pictures//RTK5.png" width="50%" height="50%">
+</div>
+
+6, 进入手动作业页面-->点击卫星图标-->RTK星数显示为固定解 页面有绿点闪烁，说明有基站RTCM数据传到遥控器 **即为成功**
+
+<div  align="center"> <img src="pictures//RTK6.png" width="50%" height="50%">
+</div>
